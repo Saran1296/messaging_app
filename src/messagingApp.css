@@ -1,0 +1,64 @@
+.add-new-contact {
+  border: 1px solid #02123e;
+  margin-top: 1%;
+  min-height: 40em;
+}
+
+.new-contact {
+  background-color: #02123e;
+  color: white;
+  font-weight: 600;
+  font-size: 20px;
+  height: 50px;
+}
+
+.existing-contact {
+  background-color: #02123e;
+  color: white;
+  margin-top: 3%;
+  height: 40rem;
+  overflow: auto;
+}
+
+.add-contact {
+  font-size: 26px;
+}
+
+.contact-display {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+.contact-icon {
+  font-size: 35px;
+}
+
+.search-bar {
+  margin-top: 15px;
+}
+
+.message-box {
+  width: 36rem;
+}
+
+.send-message {
+  margin-top: 2%;
+  margin: 2%;
+}
+
+.chat-history {
+  border: 1px solid #02123e;
+  margin-top: 1%;
+  min-height: 40em;
+}
+
+.chat-display {
+  margin: 3%;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.cursor {
+  cursor: pointer;
+}
